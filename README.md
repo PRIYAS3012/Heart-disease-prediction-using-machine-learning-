@@ -9,7 +9,8 @@ To build, train, and evaluate multiple machine learning models to determine the 
 
 To implement a user-friendly interface or application for real-time diabetes risk prediction.
 
-₹Dataset:
+#Dataset
+
 The project typically uses the Pima Indians Diabetes Dataset, which includes features such as:
 
 Number of pregnancies
@@ -22,7 +23,8 @@ Diabetes pedigree function
 Age
 Outcome (0 for non-diabetic, 1 for diabetic)
 
-#Machine Learning Techniques:
+#Machine Learning Techniques
+
 Various supervised learning algorithms can be applied and compared in this project, including:
 
 Logistic Regression
@@ -33,7 +35,7 @@ K-Nearest Neighbors (KNN)
 Gradient Boosting algorithms (e.g., XGBoost)
 Neural Networks (optional for deep learning enthusiasts)
 
-Evaluation Metrics:
+#Evaluation Metrics
 The models are evaluated based on:
 Accuracy
 Precision
@@ -42,13 +44,12 @@ F1 Score
 ROC-AUC Curve
 
 #Implementation:
+
 The project is implemented using Python and commonly used libraries such as:
-
 Pandas and NumPy for data manipulation
-
 Matplotlib and Seaborn for data visualization
 
-#Outcome:
+#Outcome
 The final product is a reliable machine learning model capable of predicting diabetes with high accuracy. This system can aid healthcare professionals and individuals in making informed decisions regarding health assessments and preventative care.
 
 #Future Scope:
